@@ -1,0 +1,14 @@
+0.Backend
+--cd backend
+--npm install
+
+--cd server
+--npm install
+
+1. Frontend
+--cd frontend
+--npm install
+-----npm start
+--cd client
+--npm install
+-----npm start
